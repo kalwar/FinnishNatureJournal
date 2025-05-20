@@ -123,12 +123,12 @@ Once the setup is complete, you can run the application locally:
 Here's a brief overview of the project folders and files:
 - **`app/`**: Contains Laravel application logic (e.g., models, controllers).
 - **`resources/`**: Frontend assets and views.
-  - `js/`: Vue.js components and Inertia.js pages.
-  - `css/`: Stylesheets (e.g., Tailwind CSS, if used).
+  - `js/`: React.js components and Inertia.js pages.
+  - `css/`: Stylesheets (e.g., Tailwind CSS etc).
 - **`routes/`**: Defines web routes for the application.
 - **`database/`**: Migrations and seeders for the database.
 - **`public/`**: Static assets like images or compiled CSS/JS.
-- **`.env`**: Environment variables (e.g., database settings). **Do not commit this file to version control.**
+- **`.env.example`**: Environment variables (e.g., database settings). 
 - **`package.json`**: Lists frontend dependencies and scripts.
 - **`composer.json`**: Lists PHP dependencies.
 
