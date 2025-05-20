@@ -2,6 +2,8 @@
 
 A web application for exploring and documenting observations of Finnish nature, built with Laravel and Inertia.js. This project allows users to log and view entries about flora, fauna, and natural phenomena, designed as an educational tool for students to engage with Finland's natural environment.
 
+![Finnish Nature Journal Dashboard](dashboard-screenshot.png)
+
 ## Table of Contents
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
